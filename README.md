@@ -4,19 +4,11 @@
 **Ortiz's Essay Writer** (OEM) is a small Python program that automates typing by writing all the text from the `essaytext.txt` file. It is designed to help users automate repetitive typing tasks, especially useful for long-form text entries.
 
 ### How to Install
-To install OEM, you’ll need Python installed on your machine, along with two libraries: `time` and `keyboard`. You can install these libraries using pip:
+To install OEM, you’ll need Python installed on your machine, along with one librarie: `keyboard`. You can install this librarie using pip:
 
 ```bash
 $ pip install keyboard
 ```
-
-Alternatively, you can install all required libraries using the provided `requirements.txt` file:
-
-```bash
-$ pip install -r requirements.txt
-```
-
-Make sure the command prompt is set to the directory where the `requirements.txt` file is located.
 
 ### How to Use
 

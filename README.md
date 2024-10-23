@@ -32,10 +32,12 @@ $ py essayWriter.py
 
 4. **Start typing**: Once the script starts, click on the text box where you want the text to be written (e.g., a document or browser text field). Then, press `1` on your keyboard to trigger the typing process.
 
-5. **Warning about performance**: If your computer has lower performance, typing might lag when pressing `1`. You can adjust the delay by entering a higher value when prompted or modifying the `DelayTime` parameter in the code.
-
 ### Customization
 
 - **Change trigger key**: By default, the script starts typing when you press `1`. You can change this trigger key to any other key by modifying the `keyboard.wait("1")` line in the code.
   
 - **Delay Time**: If you experience lag, you can change the `DelayTime` inside the script or when prompted, making the typing process smoother for slower machines.
+
+
+> [!NOTE]
+> If your computer has lower performance, typing might lag when pressing `1`. You can adjust the delay by entering a higher value when prompted or modifying the `DelayTime` parameter in the code.
